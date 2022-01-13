@@ -3,10 +3,6 @@ channels:
   - anaconda
   - defaults
 dependencies:
-  - wheel=0.36.2=pyhd3eb1b0_0
-  - xz=5.2.5=h1de35cc_0
-  - zeromq=4.3.3=hb1e8313_3
-  - zlib=1.2.11=h1de35cc_3
   - pip:
     - absl-py==0.12.0
     - astunparse==1.6.3
