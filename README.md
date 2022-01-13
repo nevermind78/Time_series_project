@@ -33,6 +33,9 @@ In order to obtain a exact copy of the dataset used in this tutorial please run 
   * Moving average
 
 
+
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78 /Time_series_project/main)
 
 
